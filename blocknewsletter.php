@@ -203,7 +203,7 @@ class Blocknewsletter extends Module
 				'search' => false,
 			),
 			'gender' => array(
-				'title' => $this->l('Gender'),
+				'title' => $this->l('Social title'),
 				'search' => false,
 			),
 			'lastname' => array(
